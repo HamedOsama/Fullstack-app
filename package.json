@@ -1,0 +1,20 @@
+{
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamedOsama/Fullstack-app.git"
+  },
+  "author": "Hamed Osama <hamedosama19@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "bugs": {
+    "url": "https://github.com/HamedOsama/Fullstack-app/issues"
+  },
+  "homepage": "https://github.com/HamedOsama/Fullstack-app#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
